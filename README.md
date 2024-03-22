@@ -8,8 +8,8 @@ Sentiment analysis of the IMDB Movie Review Dataset employing models ranging fro
 
 ## Datasets
 
-- Olivetti Faces Dataset (AT&T Laboratories Cambridge): A collection of face images for testing facial recognition methods.
-- IMDB Movie Review Dataset: A dataset for binary sentiment classification featuring a set of 25,000 highly polar movie reviews for training and 25,000 for testing.
+- **Olivetti Faces Dataset (AT&T Laboratories Cambridge)**: A collection of face images for testing facial recognition methods.
+- **IMDB Movie Review Dataset**: A dataset for binary sentiment classification featuring a set of 25,000 highly polar movie reviews for training and 25,000 for testing.
 
 ## Methodology
 
