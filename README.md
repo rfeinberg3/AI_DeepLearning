@@ -1,5 +1,5 @@
 # Deep Learning for Image and Text Analysis
-##Overview
+## Overview
 
 ### This project demonstrates the application of deep learning techniques for analyzing both image and text datasets. It covers a comprehensive approach, including dataset preprocessing, model training, and evaluation. The project is structured into two main parts:
 
