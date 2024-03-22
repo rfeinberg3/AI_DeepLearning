@@ -23,3 +23,11 @@ Sentiment analysis of the IMDB Movie Review Dataset employing models ranging fro
 - Baseline Model: Naive Bayes classifier for establishing a performance benchmark.
 - RNN: Developing a Vanilla RNN model for sentiment analysis.
 - Data Augmentation: Enhancing the dataset to improve model performance.
+
+
+## Running the Code
+
+- Clone the repository to your local machine.
+- Ensure all dependencies are installed.
+- Open AIProject6.ipynb in Jupyter Notebook or Google Colab.
+- Run the cells sequentially to reproduce the results.
